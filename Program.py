@@ -1,3 +1,4 @@
+#Note that this program has been re-used several times throughout the duration of the project and some of the values used to produce the graphs are not here. They can easily be recreated by changing the relevant parts of the code using the correct Wave Numbers K_x and K_z from the paper.
 #!/usr/bin/python
 
 import numpy as np
